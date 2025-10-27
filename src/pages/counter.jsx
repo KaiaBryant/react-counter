@@ -1,3 +1,4 @@
+//useState for local counter state
 import React, { useState } from "react";
 
 export default function Counter() {

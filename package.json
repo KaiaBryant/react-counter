@@ -14,5 +14,17 @@
   "dependencies": {
     "react": "^19.2.0",
     "react-router-dom": "^7.9.4"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiaBryant/react-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiaBryant/react-counter/issues"
+  },
+  "homepage": "https://github.com/KaiaBryant/react-counter#readme"
 }
